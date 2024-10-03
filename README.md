@@ -15,7 +15,7 @@ Features
 
 Technologies Used
 
-    Frontend: HTML, CSS, JavaScript (React/Vue/Angular)
-    Backend: Node.js/Express or Django/Flask
-    Database: MongoDB/MySQL/PostgreSQL
-    Authentication: JWT or OAuth
+    Frontend: HTML, CSS, JavaScript
+    Backend:  Django
+    Database: SQLlite
+    Authentication:  OAuth
